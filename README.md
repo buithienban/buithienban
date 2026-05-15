@@ -27,7 +27,7 @@
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=buithienban&theme=vue" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=buithienban&theme=github-dark&hide_border=true" alt="Gift's LangStat" />
 </div>
 
 **Expand to view**
