@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
-[![](https://img.shields.io/badge/Browser-Chrome-FF7139?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://www.google.com/intl/vi_vn/chrome/)
+[![](https://img.shields.io/badge/Browser-Brave-FF7139?style=flat-square&logo=Brave&logoColor=ffffff)](https://brave.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
@@ -22,6 +22,7 @@
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Laravel-FF7139?style=flat-square&logo=Laravel&logoColor=ffffff)](https://laravel.com/)
 
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
