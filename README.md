@@ -30,12 +30,3 @@
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=buithienban&theme=github-dark&hide_border=true" alt="Gift's LangStat" />
 </div>
-
-**Expand to view**
-<details>
-  <summary><b>GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=buithienban&show_icons=true" />
-</details>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buithienban&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
