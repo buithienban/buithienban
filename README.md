@@ -38,6 +38,7 @@
 **Frontend**  
 [![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=black)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/)
 [![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.dev/)
