@@ -35,19 +35,6 @@
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=ffffff)](https://mariadb.org/)
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 
-**Frontend**  
-[![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=black)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/)
-[![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.dev/)
-[![](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=ffffff)](https://astro.build/)
-[![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)](https://vitejs.dev/)
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
-
 **DevOps & Tools**  
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
